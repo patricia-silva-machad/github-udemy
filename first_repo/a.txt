@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+oioioi
+=======
 eieieiei
+>>>>>>> 6a0c6ac6aab6a66f568ab8395f58b74944675da1
